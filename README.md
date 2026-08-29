@@ -6,8 +6,8 @@ The device reads [`manifest.json`](manifest.json), compares `version` with its
 installed firmware, and downloads the release asset over certificate-verified
 HTTPS when a newer version is available.
 
-Current release: `v0.4.3`
+Current release: `v0.4.4`
 
 Firmware SHA-256:
 
-`99d4eceb2915cc09a449ef997830a10b4d98ae3edca50de98719f3bf2e8ae4cd`
+`776d9c84658ce3a3c7acfdcff65b7b3cdbbb4d6ad950a9ec77647b42025b16e1`
