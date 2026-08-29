@@ -12,5 +12,5 @@ Firmware SHA-256:
 
 `9fae3b3f793592b9961c7e1b4d6bf3153d9e3a7c09255bdd430f3fbd3c76481b`
 
-The manifest uses the repository's raw `firmware.bin` URL so ESP32 devices do
-not need to follow GitHub release-asset redirects during OTA.
+The manifest uses a versioned raw firmware URL so ESP32 devices do not need to
+follow GitHub release-asset redirects or receive an older cached binary.
