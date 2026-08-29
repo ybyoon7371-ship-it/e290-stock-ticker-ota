@@ -11,3 +11,6 @@ Current release: `v0.4.8`
 Firmware SHA-256:
 
 `94065bb4148f9ff6a819fa2efb6d85e66e0daa9f18a61e2a039b9f51572e7afa`
+
+The manifest uses the repository's raw `firmware.bin` URL so ESP32 devices do
+not need to follow GitHub release-asset redirects during OTA.
